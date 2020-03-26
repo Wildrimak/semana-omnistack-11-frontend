@@ -21,7 +21,7 @@ export default function Register(){
                     </Link>
                 </section>
 
-                <form action="">
+                <form>
                     <input placeholder="Nome da ONG"/>
                     <input type="email" placeholder="E-mail"/>
                     <input placeholder="WhatsApp"/>
